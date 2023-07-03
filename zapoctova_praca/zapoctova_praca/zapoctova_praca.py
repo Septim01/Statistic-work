@@ -65,8 +65,3 @@ print('intercept =', intercept)
 print('r_value =', r_value)
 print('p_value =', p_value)
 print('std_err =', std_err)
-
-
-
-
-
